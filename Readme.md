@@ -24,6 +24,10 @@ Xamarin.Forms では何故かコントロールのドラッグができないの
 
 ![ユニバーサルアプリ 版](doc/images/PazzleDrag-UWP.jpg "UWP")
 
+# 動画
+
+![サンプル動画](doc/images/2016-01-14 Pazzle-Droid.mp4)
+
 # License
 
 The MIT License (MIT)
