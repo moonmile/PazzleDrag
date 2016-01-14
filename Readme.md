@@ -26,7 +26,7 @@ Xamarin.Forms では何故かコントロールのドラッグができないの
 
 # 動画
 
-![サンプル動画](doc/images/2016-01-14 Pazzle-Droid.mp4)
+[![サンプル動画](http://img.youtube.com/vi/GpIhtj7pQf8/0.jpg)](http://www.youtube.com/watch?v=GpIhtj7pQf8)
 
 # License
 
