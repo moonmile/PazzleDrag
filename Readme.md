@@ -1,26 +1,34 @@
-Xamarin.Forms �ŃR���g���[�����h���b�O����A�̃T���v��
+Xamarin.Forms でコントロールをドラッグする、のサンプル
 ===============
-Xamarin.Forms �ł͉��̂��R���g���[���̃h���b�O���ł��Ȃ��̂Ŏ������Ă݂�e�X�g�ł��B
+Xamarin.Forms では何故かコントロールのドラッグができないので実装してみるテストです。
 
-�e��iAndroid/iOS/UWP�j���Ń����_���[���g���ĕ`�恕�^�b�v����A�{�̂� PCL �v���W�F�N�g�ŃR���g���[�����ړ������܂��B
+各種（Android/iOS/UWP）側でレンダラーを使って描画＆タップ制御、本体の PCL プロジェクトでコントロールを移動させます。
 
 # Demo
 
-�T���v���Ƃ��āA�R���g���[���iBoxView�j���g���ăp�Y�h�����ۂ������������܂��B
+サンプルとして、コントロール（BoxView）を使ってパズドラっぽい動きをさせます。
 
 ## Android
 
+![Android 版](doc/images/PazzleDrag-Android.jpg "Android")
+
 ## iPhone
+
+![iPhone 版](doc/images/PazzleDrag-iPhone.jpg "iPhone")
 
 ## Windows 10 Mobile 
 
+![Win Mobile 版](doc/images/PazzleDrag-WinMobile.jpg "Win 10 Mobile")
+
 ## UWP on Windows 10
+
+![ユニバーサルアプリ 版](doc/images/PazzleDrag-UWP.jpg "UWP")
 
 # License
 
 The MIT License (MIT)
 
-# ���{��̉��
+# 日本語の解説
 
-���Ƃŗp�ӁB
+あとで用意。
 
